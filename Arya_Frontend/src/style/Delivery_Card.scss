@@ -1,0 +1,18 @@
+@import '../style/Variable.scss';
+
+
+.deliver_container{
+    border: 1px solid #dadadad5;
+    box-shadow: 2px 4px 8px lightgray;
+    gap: 20px;
+    padding: 10px;
+    margin-top: 50px;
+    img{
+        width: 50px;
+        height: 50px;
+        margin-bottom: 3px;
+    }
+    h2{
+        font-size: 18px;
+    }
+}

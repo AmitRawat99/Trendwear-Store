@@ -1,0 +1,108 @@
+@import '../index.scss';
+
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $primary-colors;
+    width: 100%;
+    z-index: 999;
+    padding: 0 20px;
+
+    .user-profile {
+        display: flex;
+        align-items: center;
+
+        img {
+            width: 50px;
+            height: 50px;
+        }
+
+        h1 {
+            font-size: 18px;
+            color: $White-Color;
+        }
+    }
+
+    .logo-admin {
+        img {
+            width: 150px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            font-family: $Tagess-font;
+            margin: 2px 0;
+            color: $White-Color;
+        }
+    }
+}
+
+
+.user-menu {
+    position: relative;
+    display: inline-block;
+
+    .user-profile {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        cursor: pointer;
+
+        img {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+        }
+
+        h1 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin: 0;
+        }
+    }
+
+    .submenu {
+        position: absolute;
+        right: 0;
+        margin-top: 0.5rem;
+        width: 160px;
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        display: none;
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+
+            li {
+                padding: 0.5rem 1rem;
+                font-size: 0.875rem;
+                color: $Black-Color;
+                cursor: pointer;
+
+                &:hover {
+                    background-color: #f0f0f0;
+                }
+            }
+        }
+    }
+
+    &:hover .submenu {
+        display: block;
+    }
+}
+
+.menu-bars {
+    svg {
+        font-size: 30px;
+        color: $White-Color;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,35 @@
+@import '../index.scss';
+
+.table-responsive {
+    td {
+        width: 200px;
+        max-width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+.action-btn{
+    gap: 10px;
+    svg{
+        margin: 0 10px;
+        cursor: pointer;
+    }
+}
+.pagination-number{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    li{
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        justify-content: center;
+        width: 120px;
+        border-radius: 8px;
+        padding: 5px;
+        color: white;
+        user-select: none;
+        background-color: $primary-colors ;
+    }
+}

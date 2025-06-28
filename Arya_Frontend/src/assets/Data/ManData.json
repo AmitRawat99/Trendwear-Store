@@ -1,0 +1,536 @@
+{
+    "1": {
+        "productId": "1",
+        "productName": "kids clothing set boys, baby boy dresses, kids boys",
+        "slug": "kids clothing set boys baby boy dresses kids boys",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kapadia-original(2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kapadia-original(4).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kapadia-original(4).webp"
+        ],
+        "productmainImg": "https://images.meesho.com/images/products/424708866/ufhut_512.webp",
+        "productBrand": "PRISCA",
+        "productOriginalPrice": 769,
+        "productOldPrice": 2399,
+        "productDiscount": 68,
+        "productRating": 3.4,
+        "productTotalReview": "20",
+        "productDescription": "Add a splash of vibrant style to your ethnic wardrobe with this Women’s Printed Pure Cotton Straight Kurta by PRISCA. Crafted from soft, breathable pure cotton fabric, this maroon kurta features beautiful traditional prints that highlight its ethnic charm. The straight cut offers a flattering fit suitable for all body types, while ensuring comfort during warm weather. Perfect for daily wear, office meetings, or casual gatherings, this kurta can be paired effortlessly with jeans, leggings, or palazzos. Its easy-care material and versatile design make it a go-to choice for those who want to stay stylish without compromising comfort.",
+        "productCategory": "Women's Clothing  Kurtas",
+        "productTags": [
+            "kurtas",
+            "women",
+            "cotton",
+            "printed",
+            "maroon",
+            "ethnic wear"
+        ],
+        "productStock": 35,
+        "productSKU": "PRISCA-KURTA-MRN-05",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Maroon"
+        ],
+        "productMaterial": "Pure Cotton",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "2": {
+        "productId": "2",
+        "productName": "Women Printed Viscose Rayon Straight Kurta  (Light Blue)",
+        "slug": "Women Printed Viscose Rayon Straight Kurta  (Light Blue)",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kurta-prisca-original (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kurta-prisca-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kurta-prisca-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/kurta-prisca-original (1).webp",
+        "productBrand": "Jagra ",
+        "productOriginalPrice": 315,
+        "productOldPrice": "1,299",
+        "productTotalReview": 25,
+        "productDiscount": 75,
+        "productRating": 4.5,
+        "productDescription": "Step into effortless elegance with this beautifully crafted women’s printed viscose rayon straight kurta by Jagra. Designed to blend traditional charm with modern comfort, this light blue kurta features delicate ethnic prints that bring subtle sophistication to your everyday wardrobe. Made from premium viscose rayon fabric, it offers a soft, breathable, and flowy feel — perfect for daily wear or special occasions. The straight cut ensures a flattering fit for all body types, while the lightweight material keeps you comfortable throughout the day. Pair it effortlessly with leggings, palazzos, or jeans to create your own stylish ethnic fusion look. With its vibrant color, easy-care fabric, and versatile style, this kurta is a must-have staple for every modern woman. Elevate your everyday fashion with Jagra’s timeless ethnic wear collection.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "women's kurta",
+            "light blue",
+            "viscose rayon",
+            "straight kurta",
+            "printed ethnic wear"
+        ],
+        "productStock": 35,
+        "productSKU": "PRSKURTA-MLT-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Multicolor"
+        ],
+        "productMaterial": "Viscose Rayon",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "3": {
+        "productId": "3",
+        "productName": "Women Printed Viscose Rayon Straight Kurta",
+        "slug": "Women Printed Viscose Rayon Straight Kurta",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/raindrop-original (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/raindrop-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/raindrop-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/raindrop-original (1).webp",
+        "productBrand": "Preetshri",
+        "productOriginalPrice": 399,
+        "productOldPrice": "1,299",
+        "productDiscount": 69,
+        "productRating": 4.3,
+        "productTotalReview": "20",
+        "productDescription": "Elevate your everyday style with this elegant Women’s Printed Viscose Rayon Straight Kurta by Preetshri. Crafted from soft, breathable rayon fabric, this blue kurta blends modern aesthetics with ethnic charm. Featuring graceful prints and a straight silhouette, it offers a flattering fit for all body types. Lightweight and comfortable, it's perfect for daily wear, office outfits, or casual gatherings. Pair it with white or contrast bottoms for a refined, contemporary ethnic look. Add this versatile kurta to your wardrobe and experience the perfect mix of style, comfort, and tradition from Preetshri.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "women's kurta",
+            "viscose rayon",
+            "printed kurta",
+            "straight fit",
+            "blue kurta",
+            "Preetshri"
+        ],
+        "productStock": 42,
+        "productSKU": "RML-KURTA-BLU-02",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Blue"
+        ],
+        "productMaterial": "Viscose Rayon",
+        "productWashCare": "Hand wash separately in cold water, Dry in shade, Warm iron if needed",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": true
+    },
+    "4": {
+        "productId": "4",
+        "productName": "Women Printed Pure Cotton Straight Kurta ",
+        "slug": "Women Printed Pure Cotton Straight Kurta ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/preetshri-original (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/preetshri-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/preetshri-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/preetshri-original (1).webp",
+        "productBrand": "GOPI MOHAN",
+        "productOriginalPrice": 399,
+        "productOldPrice": "1,999",
+        "productDiscount": 80,
+        "productRating": 3.5,
+        "productTotalReview": "20",
+        "productDescription": "Refresh your ethnic wardrobe with this elegant Women’s Printed Pure Cotton Straight Kurta by GOPI MOHAN. Designed in a calming blue shade, this kurta features subtle ethnic prints and a straight silhouette that flatters all body types. Crafted from breathable and soft pure cotton, it offers all-day comfort—ideal for office wear, casual outings, or relaxed get-togethers. The timeless design makes it easy to pair with white or beige bottoms and simple accessories for a clean, traditional look. A versatile staple for any season, this kurta blends everyday comfort with refined style.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "pure cotton",
+            "printed kurta",
+            "blue kurta",
+            "women's kurta",
+            "GOPI MOHAN",
+            "straight fit"
+        ],
+        "productStock": 27,
+        "productSKU": "VAR-KURTA-GRN-03",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "productColors": [
+            "Blue"
+        ],
+        "productMaterial": "Pure Cotton",
+        "productWashCare": "Hand wash separately, Do not wring, Iron on reverse, Line dry in shade",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": false,
+        "isNewArrival": true
+    },
+    "5": {
+        "productId": "4",
+        "productName": "Women Embroidered Pure Cotton Straight Kurta ",
+        "slug": "Women Embroidered Pure Cotton Straight Kurta ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/emb-kurta-prisca-original(4).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/emb-kurta-prisca-original(2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/emb-kurta-prisca-original(3).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/emb-kurta-prisca-original(1).webp",
+        "productBrand": "BKApparels",
+        "productOriginalPrice": 348,
+        "productOldPrice": 1499,
+        "productDiscount": 77,
+        "productRating": 3.9,
+        "productTotalReview": "11",
+        "productDescription": "Step out in style with this elegant Women’s Embroidered Pure Cotton Straight Kurta by BKApparels. This purple kurta is beautifully adorned with delicate embroidery work that adds a touch of traditional charm to a modern silhouette. Made from soft and breathable pure cotton, it ensures all-day comfort while keeping you looking effortlessly graceful. Ideal for festive occasions, office wear, or casual outings, this kurta pairs well with both contrasting and matching bottoms. The straight fit and subtle design make it a versatile piece for any wardrobe. Whether you're attending a function or just going out with friends, this kurta delivers on comfort, style, and cultural flair.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "kurtas",
+            "cotton",
+            "embroidered",
+            "purple",
+            "ethnic wear",
+            "women"
+        ],
+        "productStock": 30,
+        "productSKU": "BKAPP-KURTA-PUR-04",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "productColors": [
+            "Purple"
+        ],
+        "productMaterial": "Pure Cotton",
+        "productWashCare": "Hand wash with mild detergent, Dry in shade, Iron inside out",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": false,
+        "isNewArrival": true
+    },
+    "6": {
+        "productId": "6",
+        "productName": "Women Printed Viscose Rayon Straight Kurta ",
+        "slug": "Women Printed Viscose Rayon Straight Kurta ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/klieder-original (1).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/klieder-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/klieder-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/klieder-original (2).webp",
+        "productBrand": "KPF",
+        "productOriginalPrice": 336,
+        "productOldPrice": 999,
+        "productDiscount": 66,
+        "productRating": 4.2,
+        "productTotalReview": "102",
+        "productDescription": "Add vibrant charm to your ethnic wardrobe with this Women’s Printed Viscose Rayon Straight Kurta by KPF. Featuring a beautiful mix of multicolor ethnic prints, this kurta is designed for women who love both comfort and style. Made from soft and breathable viscose rayon fabric, it drapes beautifully and offers all-day comfort. The straight cut flatters every silhouette, making it ideal for work, casual outings, or festive get-togethers. Pair it with solid leggings, palazzos, or even jeans for a trendy fusion look. With its eye-catching prints and versatile styling, this kurta from KPF brings effortless elegance to everyday dressing.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "multicolor kurta",
+            "viscose rayon",
+            "printed kurta",
+            "KPF",
+            "women's ethnic wear",
+            "straight fit"
+        ],
+        "productStock": 35,
+        "productSKU": "PRSKURTA-MLT-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Multicolor"
+        ],
+        "productMaterial": "Viscose Rayon",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "7": {
+        "productId": "7",
+        "productName": "Women Printed Viscose Rayon Straight Kurta",
+        "slug": "Women Printed Viscose Rayon Straight Kurta",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/zivapez-original (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/zivapez-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/zivapez-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/zivapez-original (1).webp",
+        "productBrand": "PRISCA",
+        "productOriginalPrice": 310,
+        "productOldPrice": 999,
+        "productDiscount": 68,
+        "productRating": 4.5,
+        "productTotalReview": "30",
+        "productDescription": "Step into effortless elegance with this beautifully crafted Women’s Printed Viscose Rayon Straight Kurta by PRISCA. Showcasing graceful ethnic prints in a refined blue tone, this kurta brings together traditional aesthetics and contemporary comfort. Made from soft, breathable viscose rayon, it offers a lightweight and flowy feel that's perfect for all-day wear. The straight silhouette ensures a flattering fit, making it a versatile choice for work, casual outings, or festive gatherings. Style it with palazzos, leggings, or denim for a chic fusion look. With its refined color, timeless design, and easy-care fabric, this kurta from PRISCA is a must-have in your everyday ethnic wardrobe.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "PRISCA kurta",
+            "viscose rayon",
+            "blue kurta",
+            "printed kurta",
+            "straight fit",
+            "women's ethnic wear"
+        ],
+        "productStock": 35,
+        "productSKU": "PRSKURTA-BLU-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Blue"
+        ],
+        "productMaterial": "Viscose Rayon",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "8": {
+        "productId": "8",
+        "productName": "Women Embroidered Cotton Rayon Straight Kurta  ",
+        "slug": "Women Embroidered Cotton Rayon Straight Kurta  ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kaliya-original- (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kaliya-original- (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/kaliya-original- (1).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/kaliya-original- (4).webp",
+        "productBrand": "Udati Kaliya",
+        "productOriginalPrice": 325,
+        "productOldPrice": 999,
+        "productDiscount": 67,
+        "productRating": 4.5,
+        "productTotalReview": "20",
+        "productDescription": "Make a graceful impression with this Women’s Embroidered Cotton Rayon Straight Kurta by Udati Kaliya. Featuring intricate embroidery on a rich red base, this kurta combines traditional detailing with modern silhouette. Crafted from a comfortable cotton-rayon blend, it is lightweight, breathable, and perfect for daily wear, office attire, or small festive gatherings. The straight fit offers a flattering shape for all body types. Pair it with neutral palazzos or churidars and complete the look with minimal accessories for effortless ethnic elegance. A stylish addition for women who love timeless ethnic fashion with a hint of flair.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "embroidered kurta",
+            "cotton rayon",
+            "red kurta",
+            "Udati Kaliya",
+            "women's ethnic wear",
+            "straight kurta"
+        ],
+        "productStock": 35,
+        "productSKU": "UK-KURTA-RED-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Red"
+        ],
+        "productMaterial": "Cotton Rayon",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "9": {
+        "productId": "9",
+        "productName": "Women Printed Cotton Rayon Straight Kurta  ",
+        "slug": "Women Printed Cotton Rayon Straight Kurta  ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/fashion-original(2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/fashion-original(3).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/fashion-original(1).webp",
+        "productBrand": "MARKHYA WALA ",
+        "productOriginalPrice": 285,
+        "productOldPrice": "2,299",
+        "productDiscount": 87,
+        "productRating": 4.5,
+        "productTotalReview": "25",
+        "productDescription": "Step into effortless elegance with this beautifully crafted women’s printed viscose rayon straight kurta by PRISCA. Designed to blend traditional charm with contemporary comfort, this multicolor kurta showcases intricate ethnic patterns that add a touch of cultural sophistication. Made from premium quality viscose rayon fabric, it offers a soft, breathable, and flowy feel — making it an ideal choice for both daily wear and special occasions. The straight cut ensures a flattering silhouette for all body types, while the lightweight fabric keeps you comfortable throughout the day, whether you're attending a festive celebration, heading to the office, or enjoying a casual outing. Pair it with leggings, palazzos, or jeans to create your own unique ethnic fusion look.With its vibrant colors, easy-care material, and versatile style, this kurta is a must-have staple for every modern woman’s wardrobe. Elevate your everyday fashion and express your personal style with PRISCA’s timeless ethnic wear collection.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "kurtas",
+            "women",
+            "ethnic wear",
+            "rayon",
+            "printed"
+        ],
+        "productStock": 35,
+        "productSKU": "PRSKURTA-MLT-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Multicolor"
+        ],
+        "productMaterial": "Viscose Rayon",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    },
+    "10": {
+        "productId": "10",
+        "productName": "Women Embellished Georgette Straight Kurta  ",
+        "slug": "Women Embellished Georgette Straight Kurta  ",
+        "productSubImg": [
+            "/Images/Woman_Clothes/Kurtas_Kurtis/samah-original (2).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/samah-original (3).webp",
+            "/Images/Woman_Clothes/Kurtas_Kurtis/samah-original (4).webp"
+        ],
+        "productmainImg": "/Images/Woman_Clothes/Kurtas_Kurtis/samah-original (1).webp",
+        "productBrand": "Samah ",
+        "productOriginalPrice": 500,
+        "productOldPrice": "2,063",
+        "productDiscount": 75,
+        "productRating": 4.5,
+        "productTotalReview": "34",
+        "productDescription": "Step into timeless elegance with this exquisite Women Embellished Georgette Straight Kurta (Dark Green) by Samah. Crafted to perfection, this kurta combines traditional artistry with modern sophistication. The rich dark green georgette fabric is beautifully embellished, adding a subtle shimmer and festive charm that makes it perfect for special occasions or stylish everyday wear. Its straight cut flatters all body types, while the lightweight, breathable fabric ensures comfort throughout the day. Pair this versatile kurta with leggings, palazzos, or churidars to create stunning ethnic looks effortlessly. With its elegant design, fine craftsmanship, and easy-care fabric, this kurta is a must-have for every woman who loves to blend cultural heritage with contemporary style.",
+        "productCategory": "Women's Clothing > Kurtas",
+        "productTags": [
+            "kurtas",
+            "women",
+            "ethnic wear",
+            "georgette",
+            "embellished"
+        ],
+        "productStock": 35,
+        "productSKU": "PRSKURTA-MLT-01",
+        "productSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "productColors": [
+            "Multicolor"
+        ],
+        "productMaterial": "Georgette",
+        "productWashCare": "Machine wash cold, Do not bleach, Iron on low",
+        "productShippingInfo": {
+            "shippingTime": "2-4 business days",
+            "returnPolicy": "10-day return policy"
+        },
+        "productOffers": [
+            "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+            "10% instant discount on SBI Credit Card EMI Transactions, up to ₹1,500 on orders of ₹5,000 and above",
+            "10% off on Axis Credit Card Transactions, up to ₹750 on orders of ₹1000 and above",
+            "Extra 15% off (price inclusive of cashback/coupon)",
+            "10% off on Kotak Credit Card Transactions, up to ₹750 on orders of ₹1000 and above"
+        ],
+        "isFeatured": true,
+        "isNewArrival": false
+    }
+}

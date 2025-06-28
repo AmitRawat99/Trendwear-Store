@@ -1,0 +1,20 @@
+@import '../index.scss';
+
+.footer-container{
+    height: 40px;
+    background-color: $primary-colors;
+    position: relative;
+    z-index: 999;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    p{
+        margin: 0 !important;
+        color: $White-Color;
+        font-weight: bold;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+    }
+}

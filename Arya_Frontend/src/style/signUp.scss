@@ -1,0 +1,72 @@
+@import '../style/Variable.scss';
+
+.login_container {
+    background: white;
+    border: 1px solid lightgray;
+    max-width: 500px;
+    width: 100%;
+    margin: 50px auto;
+    border-radius: 10px;
+    height: auto;
+    z-index: 1001;
+
+    h2 {
+        text-align: center;
+        font-size: 2rem;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .login_content {
+        padding: 20px;
+        position: relative;
+
+        .login_inputs {
+            margin: 20px 0;
+
+            input {
+                border: 1px solid black !important;
+                outline: none;
+
+                &:focus {
+                    outline: none !important;
+                    box-shadow: none !important;
+                }
+            }
+
+            label {
+                font-weight: bold;
+                font-size: 1rem;
+            }
+        }
+    }
+
+    .exmark_icon {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 25px;
+        cursor: pointer;
+
+
+    }
+}
+
+.switch_sign {
+    margin: 10px 0;
+
+    p {
+        font-weight: bold;
+
+        a {
+            font-size: 1.1rem;
+            text-decoration: none;
+            color: blue;
+        }
+    }
+}
+
+.login_btn {
+    margin: 30px 0;
+}

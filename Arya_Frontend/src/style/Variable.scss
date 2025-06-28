@@ -1,0 +1,39 @@
+@import '../index.css';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+// vaiables 
+
+$primary-color: #2a55e5;
+$secondary-color: #0065F8;
+$accent-color: #FF6F61;
+$success-color: #2ecc71;
+$neutral-bg: #f5f7fa;
+$text-color: #1a1a1a;
+$white-color : white;
+$Black-color : black;
+
+// fonts
+
+$roboto-font : "Roboto",
+sans-serif;
+$open-sans-font : "Open Sans",
+sans-serif;
+
+.main_button {
+    width: 150px;
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #ff4c4c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 8px !important;
+
+    &:hover {
+        background-color: #e03e3e;
+        transform: translateY(-2px);
+    }
+}

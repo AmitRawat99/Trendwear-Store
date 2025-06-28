@@ -1,0 +1,306 @@
+@import '../style/Variable.scss';
+
+
+// home banner 
+
+.banner_container {
+    position: relative;
+    overflow-x: hidden;
+    display: flex;
+    scroll-behavior: smooth;
+    user-select: none;
+    gap: 12px;
+
+    img {
+        max-width: 100%;
+        height: 400px;
+        flex-shrink: 0;
+        width: 100vw;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+}
+.scroll-icons {
+    width: 100%;
+    right: 0;
+    left: 0;
+    padding: 0 30px;
+    position: absolute;
+    top: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    svg {
+        cursor: pointer;
+        font-size: 35px;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: #ffffff73;
+    }
+}
+
+
+// sale proudct banner 
+
+
+.sale_product_banner {
+    width: 100%;
+    margin: 40px 0;
+    height: 350px;
+    background-image: url('../assets/Images/Banner/shoping_sale.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .sale_content {
+        position: relative;
+        width: fit-content;
+        top: 30%;
+        left: 3%;
+
+        h3 {
+            font-size: 4rem;
+            color: orange;
+            font-weight: bold;
+            font-family: $roboto-font;
+            margin: 0;
+        }
+
+        p {
+            max-width: 500px;
+            font-size: 1rem;
+            font-weight: bold;
+            color: white;
+            letter-spacing: 1px;
+        }
+    }
+}
+
+
+// banner collection 
+
+
+.sale_product_img {
+    position: relative;
+    margin: 80px 0;
+
+    .collection_img,
+    .collection_main_img {
+        position: relative;
+        margin-bottom: 15px;
+
+        img {
+            width: 100%;
+            height: 245px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+    }
+
+    .collection_main_img img {
+        height: 495px;
+    }
+
+    .sale_product_img_collection {
+        position: absolute;
+        top: 20%;
+        left: 8%;
+        color: white;
+        max-width: 80%;
+        z-index: 2;
+
+        h2 {
+            font-size: 2.8rem;
+            color: white;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.6;
+            color: #fff;
+            padding: 10px 15px;
+            border-radius: 5px;
+            max-width: 600px;
+        }
+    }
+
+    .collection_main_img::before,
+    .collection_img::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4));
+        z-index: 1;
+        border-radius: 10px;
+    }
+}
+
+@media(max-width:567px) {
+    .sale_product_banner {
+        width: 100%;
+        margin: 40px 0;
+        height: fit-content;
+        padding: 10px;
+        background-image: url('../assets/Images/Banner/shoping_sale.webp');
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        .sale_content {
+            position: relative;
+            width: fit-content;
+            top: 30%;
+            left: 3%;
+
+            h3 {
+                font-size: 2rem;
+                color: orange;
+                font-weight: bold;
+                font-family: $roboto-font;
+                margin: 0;
+            }
+
+            p {
+                max-width: 100%;
+                font-size: 1rem;
+                font-weight: bold;
+                color: white;
+                letter-spacing: 1px;
+            }
+        }
+    }
+}
+
+@media(max-width:992px) {
+    .sale_product_img {
+        position: relative;
+        margin: 50px 0 0  0;
+
+        .collection_img,
+        .collection_main_img {
+            position: relative;
+            margin-bottom: 15px;
+
+            img {
+                width: 100%;
+                height: fit-content;
+                object-fit: cover;
+                border-radius: 10px;
+            }
+        }
+        
+        .collection_main_img img {
+            height: 495px;
+        }
+
+        .sale_product_img_collection {
+            position: absolute;
+            top: 20%;
+            left: 8%;
+            color: white;
+            max-width: 80%;
+            z-index: 2;
+
+            h2 {
+                font-size: 2.8rem;
+                color: white;
+                font-weight: 700;
+                margin-bottom: 10px;
+            }
+
+            p {
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 1.6;
+                color: #fff;
+                padding: 10px 15px;
+                border-radius: 5px;
+                max-width: 600px;
+            }
+        }
+
+        .collection_main_img::before,
+        .collection_img::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4));
+            z-index: 1;
+            border-radius: 10px;
+        }
+    }
+}
+
+@media(max-width:567px) {
+    #sale_first_product{
+        display: none;
+    }
+    .sale_product_img {
+        position: relative;
+        margin: 50px 0 0  0;
+        .collection_img,
+        .collection_main_img {
+            position: relative;
+            margin-bottom: 15px;
+
+            img {
+                width: 100%;
+                height: fit-content;
+                object-fit: cover;
+                border-radius: 10px;
+            }
+        }
+        
+        .collection_main_img img {
+            height: fit-content;
+            width: 100%;
+        }
+
+        .sale_product_img_collection {
+            position: absolute;
+            top: 20%;
+            left: 8%;
+            color: white;
+            max-width: 100%;
+            z-index: 2;
+
+            h2 {
+                font-size: 2rem;
+                color: white;
+                font-weight: 700;
+                margin-bottom: 10px;
+            }
+
+            p {
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 1.6;
+                color: #fff;
+                padding: 10px 15px;
+                border-radius: 5px;
+                max-width: 600px;
+            }
+        }
+
+        .collection_main_img::before,
+        .collection_img::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4));
+            z-index: 1;
+            border-radius: 10px;
+        }
+    }
+}

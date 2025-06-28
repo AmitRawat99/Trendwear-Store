@@ -1,0 +1,72 @@
+@import '../style/Variable.scss';
+
+
+
+.popup_container {
+    position: fixed;
+    top: 2px;
+    right:8px;
+    background-color: #4BB543;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    gap: 10px;
+    overflow: hidden;
+
+    animation: fadeInOut 3s ease forwards;
+
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 5px;
+        background-color: #ff0000;
+        border-radius: 0 0 8px 8px;
+        width: 0;
+        animation: progressBar 3s linear forwards;
+    }
+
+    p {
+        margin: 0;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .popup_icon {
+        font-size: 18px;
+    }
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    10% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    90% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-10px);
+        pointer-events: none;
+    }
+}
+
+@keyframes progressBar {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}

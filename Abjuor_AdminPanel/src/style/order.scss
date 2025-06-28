@@ -1,0 +1,16 @@
+@import '../index.scss';
+
+.user-name{
+    gap: 10px;
+    img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+}
+.controle-user{
+    svg{
+        margin: 0 10px;
+        font-size: 20px;
+    }
+}

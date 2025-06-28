@@ -1,0 +1,60 @@
+@import '../style/Variable.scss';
+
+
+.review_tab {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+
+    h2 {
+        border: 1px solid lightgray;
+        font-size: 1rem;
+        cursor: pointer;
+        width: 180px;
+        padding: 10px 0;
+        text-align: center;
+        margin: 0px 0;
+    }
+}
+
+.tab_content {
+    h4 {
+        font-size: 1.5rem;
+        letter-spacing: 1px;
+        text-transform: capitalize;
+        color: $Black-color;
+    }
+
+    p {
+        font-size: 15px;
+        font-family: $open-sans-font;
+    }
+}
+
+.show_reviews {
+    .profile_img {
+        display: flex;
+        align-items: center;
+
+        h2 {
+            font-size: 18px;
+        }
+    }
+
+    .description {
+        font-size: 19px;
+        font-family: $open-sans-font;
+        margin: 20px 0;
+    }
+}
+
+
+@media(max-width:467px){
+    .review_tab{
+        display: flex;
+        justify-content: inherit;
+    }
+.descrption_tab{
+    display: flex;
+    justify-content: center;
+}    
+}

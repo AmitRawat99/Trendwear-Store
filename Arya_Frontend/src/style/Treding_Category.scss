@@ -1,0 +1,192 @@
+@import '../style/Variable.scss';
+
+.treding_category_title {
+    margin: 30px 0;
+
+    h1 {
+        font-size: 22px;
+        color: $Black-color;
+        font-weight: bold;
+    }
+
+    a {
+        text-decoration: none;
+        color: $primary-color;
+        font-weight: bold;
+    }
+}
+
+.treding_products {
+    width: 250px;
+    height: auto;
+    border: 1px solid lightgray;
+    padding: 5px;
+    margin: 10px 0;
+
+    .treding_card_title {
+        img {
+            width: 100%;
+            height: 200px;
+            margin: auto;
+        }
+    }
+
+    ._treding_product_details {
+        margin: 10px 5px;
+
+        .product_name {
+            h6 {
+                font-size: 15px;
+                color: gray;
+            }
+
+            h2 {
+                font-size: 18px;
+                font-weight: bold;
+                color: $Black-color;
+                margin: 0;
+            }
+        }
+    }
+
+    .product_rating {
+        margin: 15px 0;
+
+        svg {
+            color: orange;
+        }
+
+        p {
+            margin: 0 !important;
+        }
+    }
+
+    .product_price {
+        h3 {
+            font-size: 15px;
+            margin-top: 3px;
+
+            span {
+                font-size: 20px;
+                font-weight: bold;
+            }
+
+            sup {
+                font-size: 18px;
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+
+.col_section {
+  flex: 0 0 auto;
+  width: 20% !important; /* default for large screens */
+
+  /* Extra small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+    width: 100% !important; /* full width on xs */
+  }
+
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    width: 50% !important; /* half width on sm */
+  }
+
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    width: 33.3333% !important; /* one third on md */
+  }
+
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) and (max-width : 1150px) {
+    width: 25% !important; /* 20% on lg and above */
+  }
+}
+
+
+
+
+
+@media(max-width:567px) {
+    .treding_category_title {
+        margin: 30px 0;
+
+        h1 {
+            font-size: 22px;
+            color: $Black-color;
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none;
+            color: $primary-color;
+            font-weight: bold;
+        }
+    }
+
+    .treding_products {
+        width: 100%;
+        height: auto;
+        border: 1px solid lightgray;
+        padding: 5px;
+        margin: 10px 0;
+
+        .treding_card_title {
+            img {
+                width: 100%;
+                height: 200px;
+                margin: auto;
+            }
+        }
+
+        ._treding_product_details {
+            margin: 10px 5px;
+
+            .product_name {
+                h6 {
+                    font-size: 15px;
+                    color: gray;
+                }
+
+                h2 {
+                    font-size: 18px;
+                    font-weight: bold;
+                    color: $Black-color;
+                    margin: 0;
+                }
+            }
+        }
+
+        .product_rating {
+            margin: 15px 0;
+
+            svg {
+                color: orange;
+            }
+
+            p {
+                margin: 0 !important;
+            }
+        }
+
+        .product_price {
+            h3 {
+                font-size: 15px;
+                margin-top: 3px;
+
+                span {
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+
+                sup {
+                    font-size: 18px;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+
+}

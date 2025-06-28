@@ -1,0 +1,20 @@
+@import '../style/Variable.scss';
+
+.Footer_Container{
+    margin-top: 50px ;
+    background-color: $Black-color;
+    padding: 50px 50px;
+    color: $white-color ;
+    h6{
+        font-size: 18px;
+        font-family: $roboto-font;
+        font-weight: bold;
+
+    }
+    ul{
+        padding: 0 !important;
+        li{
+            margin: 13px 0;
+        }
+    }
+}

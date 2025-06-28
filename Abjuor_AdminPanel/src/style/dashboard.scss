@@ -1,0 +1,142 @@
+@import '../index.scss';
+
+
+
+.aside-container {
+    width: 300px;
+    height: 100vh;
+    background-color: #e1e1e1d4;
+    border: 1px solid lightgray;
+}
+
+.aside-container-details {
+    gap: 10px;
+    cursor: pointer;
+
+    li {
+        font-weight: bold;
+        margin: 15px 0;
+        // border: 2px solid red;
+        font-family: cursive;
+        list-style-type: none;
+        font-size: 16px;
+        svg {
+            font-size: 18px;
+            color: $dark-text;
+        }
+
+        a {
+            text-decoration: none;
+            color: $dark-text;
+            padding: 8px;
+        }
+    }
+}
+
+.activeNav {
+    width: 100%;
+    background-color: $primary-colors;
+    color: $White-Color;
+    padding: 8px;
+
+    svg {
+        color: $White-Color !important;
+    }
+
+    span {
+        color: $White-Color !important;
+    }
+}
+
+.dashboard-row {
+    display: flex;
+
+    h4 {
+        font-weight: bold;
+        text-transform: capitalize;
+        color: $dark-text;
+    }
+}
+
+.dashboard-card {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    padding: 1rem 1.25rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-icon {
+        font-size: 2rem;
+        margin-right: 1rem;
+        color: #fff;
+        width: 50px;
+        height: 50px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card-info {
+        h6 {
+            margin: 0;
+            font-size: 0.95rem;
+            color: #555;
+            margin: 5px 0;
+        }
+
+        p {
+            margin: 0;
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #222;
+        }
+    }
+}
+
+.card-sales .card-icon {
+    background: #28a745;
+}
+
+.card-orders .card-icon {
+    background: #007bff;
+}
+
+.card-purchases .card-icon {
+    background: #ffc107;
+    color: #000;
+}
+
+.card-customers .card-icon {
+    background: #17a2b8;
+}
+
+.col-lg-3 {
+    padding: 0 !important;
+}
+
+.submenus{
+    padding: 0 !important;
+    li{
+        user-select: none;
+    }
+    .nonOpne{
+        display: none;
+    }
+    .open{
+        display: block;
+    }
+}
+.mainbox{
+    margin-left: 10px !important;
+}

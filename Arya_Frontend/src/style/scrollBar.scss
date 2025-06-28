@@ -1,0 +1,34 @@
+@import '../style/Variable.scss';
+
+
+.scrollBar {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+
+    .scroll_icon {
+        background-color: $primary-color;
+        border-radius: 50%;
+        transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+        opacity: 0;
+        visibility: hidden;
+
+        svg {
+            padding: 10px;
+            cursor: pointer;
+            color: $white-color;
+            font-size: 45px;
+        }
+
+        &.show {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        &.nonshow {
+            opacity: 0;
+            visibility: hidden;
+        }
+    }
+}

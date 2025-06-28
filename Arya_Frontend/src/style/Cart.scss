@@ -1,0 +1,26 @@
+@import '../style/Variable.scss';
+
+.product_title {
+    font-size: 1.5rem;
+    color: $Black-color;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.cart_product_details {
+    .product_name {
+        width: 250px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: inline-block;
+
+    }
+    img{
+        object-fit:fill;
+    }
+    svg{
+        cursor: pointer;
+        margin: auto;
+    }
+}
